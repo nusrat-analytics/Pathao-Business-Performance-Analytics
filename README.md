@@ -4,10 +4,24 @@
 
 ### End-to-End Business Intelligence Solution
 
-PostgreSQL • SQL • Power BI • DAX • Business Intelligence • Data Engineering
+PostgreSQL | SQL |Power BI | DAX | Business Intelligence | Data Engineering
 
 Transforming ride-sharing operational data into actionable business intelligence through modern data engineering, dimensional modeling, and executive analytics.
 
 ### Business Problem
 
 Ride-sharing platforms generate thousands of operational records every day. Without an integrated analytics platform, stakeholders struggle to identify revenue trends, understand customer behavior, optimize driver utilization, reduce cancellations, and make informed strategic decisions.This project addresses these challenges by transforming raw ride-sharing data into executive-ready dashboards that enable data-driven operational and strategic decision-making.
+
+### Business Objectives
+
+* Monitor Revenue Performance
+
+* Analyze Demand Patterns
+
+* Reduce Cancellation Risk
+
+* Improve Driver Productivity
+
+* Measure Customer Retention
+
+* Support Executive Decisions
