@@ -69,3 +69,6 @@ flowchart LR
 * SQL Views
 
 * Multi-layer Architecture
+
+### Power BI Data Model
+<img width="1410" height="720" alt="Data Modelling" src="https://github.com/user-attachments/assets/b48537d8-7fef-463d-9241-a4ef3aabbdbe" />
