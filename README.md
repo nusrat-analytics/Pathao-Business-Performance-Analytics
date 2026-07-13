@@ -24,4 +24,18 @@ Ride-sharing platforms generate thousands of operational records every day. With
 
 * Measure Customer Retention
 
+### End-to-End Analytics Workflow
+
+```mermaid
+flowchart LR
+    A[CSV Data Sources] --> B[PostgreSQL]
+    B --> C[Raw Layer]
+    C --> D[Staging Layer]
+    D --> E[Intermediate Layer]
+    E --> F[Analytics Layer]
+    F --> G[Power BI Data Model]
+    G --> H[Interactive Dashboards]
+    H --> I[Business Insights & Recommendations]
+```
+
 * Support Executive Decisions
