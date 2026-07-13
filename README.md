@@ -24,6 +24,8 @@ Ride-sharing platforms generate thousands of operational records every day. With
 
 * Measure Customer Retention
 
+* Support Executive Decisions
+
 ### End-to-End Analytics Workflow
 
 ```mermaid
@@ -38,4 +40,4 @@ flowchart LR
     H --> I[Business Insights & Recommendations]
 ```
 
-* Support Executive Decisions
+
