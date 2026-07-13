@@ -6,7 +6,7 @@
 
 PostgreSQL | SQL |Power BI | DAX | Business Intelligence | Data Engineering
 
-Transforming ride-sharing operational data into actionable business intelligence through modern data engineering, dimensional modeling, and executive analytics.
+##### Transforming ride-sharing operational data into actionable business intelligence through modern data engineering, dimensional modeling, and executive analytics.
 
 ### Business Problem
 
@@ -40,4 +40,32 @@ flowchart LR
     H --> I[Business Insights & Recommendations]
 ```
 
+### PostgreSQL Data Engineering
 
+| Layer        | Description                                    |
+| ------------ | ---------------------------------------------- |
+| Raw          | Source ride-sharing datasets                   |
+| Staging      | Cleaning, profiling, validation                |
+| Intermediate | Business transformations & feature engineering |
+| Analytics    | Reporting-ready dimensional tables             |
+
+
+#### SQL Tasks Performed
+
+* Data Profiling
+
+* Data Cleaning
+
+* Duplicate Detection
+
+* Data Validation
+
+* Missing Value Handling
+
+* Feature Engineering
+
+* Business Rule Validation
+
+* SQL Views
+
+* Multi-layer Architecture
