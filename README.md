@@ -72,3 +72,6 @@ flowchart LR
 
 ### Power BI Data Model
 <img width="1410" height="720" alt="Data Modelling" src="https://github.com/user-attachments/assets/b48537d8-7fef-463d-9241-a4ef3aabbdbe" />
+
+
+##### The analytical model follows a star schema consisting of one centralized fact table connected to customer, driver, date, and time dimensions, enabling scalable analytical queries and efficient report performance.
