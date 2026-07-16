@@ -75,3 +75,28 @@ flowchart LR
 
 
 ##### The analytical model follows a star schema consisting of one centralized fact table connected to customer, driver, date, and time dimensions, enabling scalable analytical queries and efficient report performance.
+
+###  Dashboard Walkthrough
+
+##### The dashboard is organized into seven analytical modules, each designed to answer specific business questions and support data-driven decision-making across executive, operational, customer, and revenue perspectives.
+
+#### 01. Executive Overview
+
+<img width="1046" height="738" alt="Overview" src="https://github.com/user-attachments/assets/5391c6f0-ff6d-4453-8910-ec2560edf834" />
+
+#### Business Questions
+*How is overall business performance changing?
+*What are the current operational KPIs?
+*Which customer segments contribute the most revenue?
+#### Key Insights
+*Revenue decreased compared with the previous period.
+*Premium customers generated most of the revenue.
+*Peak-hour demand drives operational pressure.
+#### Business Value
+Provides executives with an overall health check of business performance.
+
+#### Demand & Supply
+
+<img width="1047" height="593" alt="Demand   Supply" src="https://github.com/user-attachments/assets/b8a675ba-10ef-4712-9673-bd97d963a345" />
+
+
