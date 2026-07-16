@@ -270,4 +270,34 @@ Supports customer loyalty and retention strategies.
 
 #### Repository Structure
 
+Ride-Sharing-Business-Analytics/
+│
+├── 📂 SQL/
+│   ├── 📂 raw/
+│   │   └── Raw data loading scripts
+│   ├── 📂 staging/
+│   │   └── Data cleaning, profiling & validation
+│   ├── 📂 intermediate/
+│   │   └── Business transformations & feature engineering
+│   └── 📂 analytics/
+│       └── Star schema & reporting-ready SQL objects
+│
+├── 📂 PowerBI/
+│   └── 📄 Ride_Sharing_Business_Analytics.pbix
+│
+├── 📂 Documentation/
+│   └── 📄 Ride_Sharing_Business_Report.pdf
+│
+├── 📂 assets/
+│   ├── 🖼️ data_architecture_diagram.png
+│   ├── 🖼️ powerbi_data_model.png
+│   ├── 🖼️ dashboard_overview.png
+│   ├── 🖼️ demand_supply_dashboard.png
+│   ├── 🖼️ cancellation_analysis_dashboard.png
+│   ├── 🖼️ revenue_pricing_dashboard.png
+│   ├── 🖼️ driver_performance_dashboard.png
+│   ├── 🖼️ customer_analytics_dashboard.png
+│   └── 🖼️ executive_insights_dashboard.png
+│
+└── 📄 README.md
  
