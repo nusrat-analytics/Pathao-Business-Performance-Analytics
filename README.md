@@ -95,8 +95,64 @@ flowchart LR
 #### Business Value
 Provides executives with an overall health check of business performance.
 
-#### Demand & Supply
+#### 02.Demand & Supply
 
 <img width="1047" height="593" alt="Demand   Supply" src="https://github.com/user-attachments/assets/b8a675ba-10ef-4712-9673-bd97d963a345" />
+
+#### Business Questions
+*When does demand peak?
+*Are drivers sufficient during peak hours?
+*Which locations experience the highest demand?
+#### Key Insights
+*Morning and evening hours experience the highest demand.
+*Supply gaps increase during peak periods.
+*Certain locations consistently experience higher ride requests.
+#### Business Value
+Supports workforce planning and driver allocation.
+
+#### 03.Cancellation Analysis
+
+<img width="1048" height="596" alt="Cancellation Analysis" src="https://github.com/user-attachments/assets/c4602703-d970-4ab6-b0a4-af0757dd2bd5" />
+
+#### Business Questions
+*Why are rides cancelled?
+*When do cancellations occur?
+*Which vehicle type is most affected?
+#### Key Insights
+Peak-hour periods produce the highest cancellation rates.
+Bike services experience higher hourly cancellation variability.
+Revenue loss is concentrated during operational bottlenecks.
+#### Business Value
+Supports operational improvements that reduce lost revenue.
+
+#### 04.Revenue & Pricing
+
+<img width="1365" height="729" alt="Revenue   Pricing" src="https://github.com/user-attachments/assets/070c8172-f3f1-4ad7-9e68-6dd438c15e26" />
+
+#### Business Questions
+*Is pricing consistent?
+*Which vehicle contributes most revenue?
+*Which hours maximize profitability?
+#### Key Insights
+*Revenue generally increases with trip distance.
+*Vehicle types contribute differently to overall revenue.
+*Certain hours generate disproportionately high revenue.
+#### Business Value
+Supports pricing optimization and revenue management.
+
+#### 05.Driver Performance
+
+<img width="1358" height="755" alt="Drivers Performance" src="https://github.com/user-attachments/assets/1565830e-1249-4380-8c7a-51e4eafe39a8" />
+
+#### Business Questions
+*Which drivers perform best?
+*Is workload evenly distributed?
+*How does revenue vary by driver?
+##### Key Insights
+*Driver productivity varies significantly.
+*High-performing drivers consistently generate higher revenue.
+*Operational clusters identify performance differences.
+#### Business Value
+Supports performance evaluation and incentive planning.
 
 
