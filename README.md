@@ -270,7 +270,7 @@ Supports customer loyalty and retention strategies.
 
 #### Repository Structure
 
-Ride-Sharing-Business-Analytics/
+Pathao-Business-Performance-Analytics/
 
 │
 
